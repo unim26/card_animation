@@ -11,6 +11,14 @@ A beautiful Flutter UI that demonstrates a **3D animated credit card flip** when
 - Auto-flip to back when focusing on CVV
 - Flip back to front when CVV field loses focus
 
+## video
+
+
+
+https://github.com/user-attachments/assets/355331b7-20dc-47fe-8bb4-48b5eb234cd5
+
+
+
 
 ## 🚀 Getting Started
 
